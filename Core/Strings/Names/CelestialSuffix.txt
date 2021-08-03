@@ -9,7 +9,6 @@ Sekizinci
 Dokuzuncu
 
 Dakik
-
 Kuzeyli
 Avustralyalı
 Ortadaki
@@ -19,7 +18,6 @@ Sonraki
 
 Gezegen
 Dünya
-
 el-Rey
 el-Asat
 el-Samakah
