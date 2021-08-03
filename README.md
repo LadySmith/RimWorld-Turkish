@@ -1,5 +1,8 @@
 # Branch hk.
-Experimental Branch. **Do not merge**.
+Experimental Branch. **DO NOT MERGE**, DO NOT **SHIP WITH GAME**
+* Bu branchı oyuna aktarmanız durumunda büyük ihtimal açılmayacaktır. 
+* Dosya sonları ve/veya ekleri %70 doğru değildir. 
+* Çeviri programları kullanmayınız. Tüm çevirileri kaybetme ihtimali var.
 
 ![Image of Rimworld](http://rimworldwiki.com/images/thumb/8/8c/Rimworldlogo.png/600px-Rimworldlogo.png)
 
