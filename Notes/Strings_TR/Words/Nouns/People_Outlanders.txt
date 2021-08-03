@@ -1,3 +1,5 @@
+//Core/Strings/Words/Nouns/People_Jobs.txt
+
 kasabalı
 köylü
 değirmenci

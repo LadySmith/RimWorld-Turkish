@@ -1,0 +1,69 @@
+﻿//Normal outlanders
+çiftçi
+köylü
+değirmenci
+demirci
+biracı
+dokumacı
+aşçı
+dilenci
+town guard
+town councilor
+baker
+tailor
+elder
+silâhçı
+demirci
+okçu
+harmancı
+saman
+marangoz
+tüccar
+
+//Exotic outlanders
+cerrah
+doktor
+kâşif
+maceraperest
+ayyaş
+rahip
+papaz
+kaçakçı
+komedyen
+öğretmen
+akrobat
+palyaço
+aktör
+sanatçı
+boksör
+kimyager
+dansçı
+falcı
+bahçıvan
+hizmetçi
+hipnotizmacı
+kuyumcu
+şair
+kovboy
+şarkıcı
+filozof
+silahşör
+şerif
+
+//Tech
+arkeolog
+bilgisayar korsanı
+gezegenbilimci
+politikacı
+tarihçi
+yazar
+mühendis
+diş doktoru
+avukat
+
+//Tribals
+şef
+savaşçı
+okçu
+cadı doktor
+şaman
