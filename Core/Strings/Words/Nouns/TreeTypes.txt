@@ -1,14 +1,13 @@
 ﻿meşe
 kavak
 çam
-huş ağacı
 tik ağacı
 cecropia ağacı
 palmiye
 bambu
 dişbudak ağacı
 titrek kavak
-akgüren
+kayın
 huş ağacı
 kiraz
 kestane
@@ -20,6 +19,6 @@ kuzey amerika cevizi
 karaçam
 akçaağaç
 sedir
-alaçam
+ladin
 ceviz
 söğüt
