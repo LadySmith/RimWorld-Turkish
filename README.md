@@ -1,3 +1,6 @@
+# Branch hk.
+Experimental Branch. **Do not merge**.
+
 ![Image of Rimworld](http://rimworldwiki.com/images/thumb/8/8c/Rimworldlogo.png/600px-Rimworldlogo.png)
 
 * RimWorld için resmi Türkçe Dil çevirisi.
